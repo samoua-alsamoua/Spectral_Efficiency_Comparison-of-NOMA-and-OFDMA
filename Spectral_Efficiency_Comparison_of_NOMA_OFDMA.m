@@ -1,4 +1,4 @@
-% MATLAB Code for Spectral Efficiency Comparison: NOMA vs OFDMA
+% Spectral Efficiency Comparison: NOMA vs OFDMA
 
 clc;
 clear;
